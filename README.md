@@ -41,7 +41,7 @@ $ echo "Code. Learn. Build. Repeat. 🚀"
 │ Pandas        NumPy         Scikit-learn Matplotlib │
 │ Power BI      Tableau       Git          GitHub     │
 │ HTML          CSS           Node.js      React      │
-│ Django        VS Code       Linux                    │
+│ Django        VS Code       Linux                   │
 └─────────────────────────────────────────────────────┘
 
 <div align="center">
