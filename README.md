@@ -4,13 +4,15 @@
 
 ---
 
-## 🎯 About Me
+## 🎯 Professional Overview
 
 I'm a passionate Data Engineer and Analytics professional with a strong foundation in AI & Data Science. I specialize in building scalable data pipelines, transforming raw data into actionable business intelligence, and leveraging cloud technologies to solve complex problems. My focus is on creating efficient, reliable data infrastructure that drives informed decision-making.
 
+> *"Building things that sit somewhere between data and intelligence, solving problems when neither seems to be cooperating."*
+
 **Key Expertise:**
 - 🔍 Data Analysis & Business Intelligence
-- 📊 ETL/ELT Pipeline Development
+- 📊 ETL/ELT Pipeline Development  
 - 💾 Database Design & Optimization
 - ☁️ Cloud Data Warehousing
 - 📈 Analytics & Visualization
@@ -18,12 +20,14 @@ I'm a passionate Data Engineer and Analytics professional with a strong foundati
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Toolbox
 
-### Core Languages
+### Core Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### Data & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -50,22 +54,37 @@ I'm a passionate Data Engineer and Analytics professional with a strong foundati
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
-### Development Tools
+### Development & Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## 📊 What I Specialize In
+## 📊 Professional Skills Matrix
 
-| 🎯 Focus Area | 📝 Description |
+| **Category** | **Proficiency** | **Status** |
+|---|---|---|
+| 🐍 Python & Data Libraries | ⭐⭐⭐⭐⭐ | Advanced |
+| 📊 SQL & Database Design | ⭐⭐⭐⭐⭐ | Advanced |
+| 📈 Analytics & BI Tools | ⭐⭐⭐⭐⭐ | Advanced |
+| ☁️ Cloud Platforms | ⭐⭐⭐⭐ | Intermediate-Advanced |
+| 🔄 ETL & Data Pipelines | ⭐⭐⭐⭐⭐ | Advanced |
+| 🤖 Machine Learning | ⭐⭐⭐⭐ | Intermediate-Advanced |
+| 💻 Web Development | ⭐⭐⭐ | Intermediate |
+
+---
+
+## 🚀 What I Specialize In
+
+| Focus Area | Description |
 |---|---|
 | **Data Pipeline Development** | Design, build, and maintain scalable ETL/ELT processes |
 | **Business Intelligence** | Create dashboards and reports for data-driven decision making |
 | **Analytics & Insights** | Analyze complex datasets to uncover business opportunities |
 | **Database Optimization** | Design efficient schemas and improve query performance |
-| **Cloud Architecture** | Implement data solutions on GCP, AWS, and other cloud platforms |
+| **Cloud Architecture** | Implement data solutions on GCP, AWS, and other platforms |
 | **Data Modeling** | Create effective data structures for analytics and reporting |
 | **Machine Learning** | Build predictive models and data science solutions |
 
@@ -75,88 +94,109 @@ I'm a passionate Data Engineer and Analytics professional with a strong foundati
 
 ### 🔗 Coming Soon
 I'm currently working on exciting data engineering and analytics projects. Stay tuned for:
-- Real-time data pipeline implementations
-- Advanced analytics dashboards
-- Cloud data warehouse solutions
-- Machine learning applications
+
+- ⚡ **Real-time Data Pipelines** - Streaming data architecture
+- 📊 **Advanced Analytics Dashboards** - Interactive BI solutions
+- ☁️ **Cloud Data Warehouse** - Scalable data warehousing
+- 🤖 **ML Applications** - Machine learning implementations
+- 🔧 **Data Tools & Utilities** - Open-source contributions
 
 ---
 
-## 📚 Education & Certifications
+## 📚 Education & Background
 
-- 🎓 **B.Tech in AI & Data Science** - Focus on data engineering and analytics
-- 📖 Continuous learning in modern data technologies and cloud platforms
-- 🏆 Passionate about hands-on projects and real-world problem-solving
-
----
-
-## 🎓 Continuous Learning & Growth
-
-I'm committed to mastering:
-- 📚 Advanced SQL & Query Optimization
-- 🤖 Machine Learning & AI Applications
-- ☁️ Cloud Data Architecture (GCP, AWS, Azure)
-- 🔄 Modern Data Stack & Emerging Technologies
-- 📊 Advanced Analytics & Business Intelligence
-- 🔐 Data Security & Compliance
+- 🎓 **B.Tech in AI & Data Science** - Advanced coursework in data engineering and analytics
+- 📖 **Continuous Learning** - Stay updated with cutting-edge data technologies
+- 🏆 **Hands-on Focus** - Real-world projects and practical problem-solving
 
 ---
 
-## 📈 My Approach
+## 🎯 Current Focus & Learning
 
-✨ **Quality Data, Quality Insights** - Ensuring data integrity at every step  
-🔧 **Scalable Solutions** - Building systems that grow with your needs  
-📊 **Business-Focused** - Aligning data solutions with business objectives  
-🚀 **Innovation** - Staying ahead with latest technologies and best practices  
-🤝 **Collaboration** - Working effectively with cross-functional teams  
+```
+Advanced SQL Optimization
+         ↓
+Cloud Data Architecture (GCP, AWS, Azure)
+         ↓
+Modern Data Stack & Emerging Tools
+         ↓
+Machine Learning & AI Applications
+         ↓
+Advanced Analytics & BI
+         ↓
+Data Security & Compliance
+```
 
 ---
 
-## 📞 Connect With Me
+## 💼 Professional Approach
+
+| Principle | Implementation |
+|---|---|
+| 🎯 **Precision** | Accurate data analysis and reliable solutions |
+| 💪 **Reliability** | Consistent, robust data pipelines and systems |
+| 🚀 **Innovation** | Cutting-edge approaches to data challenges |
+| 📖 **Transparency** | Clear communication and comprehensive documentation |
+| 🤝 **Collaboration** | Effective teamwork and knowledge sharing |
+| 🔍 **Excellence** | Continuous improvement and attention to detail |
+
+---
+
+## 🌟 What Drives Me
+
+- 🎯 Passionate about **data quality** and **clean architecture**
+- 📚 **Lifelong learner** – constantly exploring new tools and technologies
+- 🤝 Enthusiastic about **open-source** contributions and **community**
+- ☕ **Coffee-powered engineer** fueled by problem-solving
+- 💻 **Detective mode** – debugging data issues with precision
+- 🎬 Sharing **insights and learnings** across platforms
+- 🚀 Building **impactful data solutions** that matter
+- 🎓 Coding seriously to build things I wished existed
+
+---
+
+## 🎁 I'm Open For
+
+✅ **Data Engineering Projects**  
+✅ **Analytics & BI Solutions**  
+✅ **Open Source Collaboration**  
+✅ **Knowledge Sharing & Mentoring**  
+✅ **Building Data-Driven Products**  
+✅ **Learning & Growth Opportunities**  
+
+---
+
+## 📞 Let's Connect!
+
+Reach out and let's build something amazing together! 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aswini-saravanan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aswinisaravanan53@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aswini-saravanan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/reel/DcYsxd8gmTG)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
 
 ---
 
-## 💡 Fun Facts About Me
+<div align="center">
 
-- 🎯 Passionate about data quality and clean data architecture
-- 📚 Lifelong learner – constantly exploring new tools and technologies
-- 🤝 Enthusiastic about open-source contributions and community collaboration
-- ☕ Coffee-powered data engineer (fueled by problem-solving!)
-- 💻 Debugging data issues like a detective – asking the right questions
-- 🎬 Also sharing insights and learnings on Instagram
-- 🚀 Driven by the goal of building impactful data solutions
+## 🌟 Professional Profile
 
----
+**Building the future of data, one pipeline at a time.**
 
-## 🏆 Key Values
+```
+"In data we trust, with insights we transform."
+~ Aswini Saravanan
+```
 
-| Value | What It Means For You |
-|-------|----------------------|
-| 🎯 **Precision** | Accurate data analysis and reliable solutions |
-| 💪 **Reliability** | Consistent, robust data pipelines and systems |
-| 🚀 **Innovation** | Cutting-edge approaches to data challenges |
-| 📖 **Transparency** | Clear communication and documentation |
-| 🤝 **Collaboration** | Working together to achieve great results |
+**Let's build something great together!** ✨
+
+*Last updated: August 2026 | Always evolving* 🚀
+
+</div>
 
 ---
 
-## 🎁 Open For
+### 📊 Repository Highlights
 
-✅ Data Engineering Projects  
-✅ Analytics & BI Solutions  
-✅ Collaboration on Open Source  
-✅ Knowledge Sharing & Mentoring  
-✅ Building Data-Driven Products  
+*Coming Soon* – Curated collection of my best data engineering and analytics projects showcasing end-to-end solutions.
 
----
-
-**⭐ If you find my work interesting, feel free to star my repositories, explore my projects, and let's connect!**
-
-*"In data we trust, with insights we transform."*
-
-*Last updated: August 2026*
