@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Aswini.png" width="1000" alt="Aswini" />
+<img src="https://raw.githubusercontent.com/aswini-saravanan/aswini-saravanan/main/Aswini.png" width="200" alt="Aswini" />
 
 # Aswini S
 
