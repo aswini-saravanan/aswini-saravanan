@@ -1,20 +1,33 @@
 <div align="center">
 
-<img src="./Aswini.png" width="200" alt="Aswini" />
+<table>
+<tr>
+<td align="center" valign="middle" width="300">
 
-# Aswini S
+<img src="./Aswini.png" height="360" alt="Aswini" />
 
-**B.Tech Artificial Intelligence and Data Science**
+</td>
+<td align="left" valign="middle" width="520">
+
+<h1>Aswini S</h1>
+
+<b>B.Tech Artificial Intelligence and Data Science</b>
+
+<br><br>
 
 I build projects where AI, data, and software meet.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=FF69B4&center=true&vCenter=true&width=600&lines=AI+and+Data+Science+student;Python+%7C+SQL+%7C+Web+Development;Code.+Learn.+Build.+Repeat." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=FF69B4&vCenter=true&width=460&lines=AI+and+Data+Science+student;Python+%7C+SQL+%7C+Web+Development;Code.+Learn.+Build.+Repeat." alt="Typing animation" />
 
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aswini-saravanan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+
+</td>
+</tr>
+</table>
 
 </div>
 
