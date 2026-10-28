@@ -1,219 +1,96 @@
 <div align="center">
 
-<!-- ===================== HERO ===================== -->
+<img src="./Aswini.png" width="200" alt="Aswini" />
 
-<img src="./Aswini.png" width="260" alt="Aswini" />
+# Aswini S
 
-<br><br>
+**B.Tech Artificial Intelligence and Data Science**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2500&pause=900&color=FF69B4&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Aswini.S+%F0%9F%91%8B;AI+%26+Data+Science+Enthusiast+%F0%9F%A4%96;Building+Ideas+into+Real+Projects+%F0%9F%92%BB;Code+%7C+Learn+%7C+Build+%7C+Repeat+%E2%9C%A8" alt="Typing animation" />
+I build projects where AI, data, and software meet.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=FF69B4&center=true&vCenter=true&width=600&lines=AI+and+Data+Science+student;Python+%7C+SQL+%7C+Web+Development;Code.+Learn.+Build.+Repeat." alt="Typing animation" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" alt="Profile views" />
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aswini-saravanan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
 </div>
 
-~/ whoami
+---
 
-$ cat about.txt
+## About
 
-Hi, I'm Aswini.S 👋
-B.Tech Artificial Intelligence & Data Science student.
+I am a final-year B.Tech student in Artificial Intelligence and Data Science. I enjoy turning ideas into working applications, from data analysis and business intelligence to Java applications and browser games.
 
-I enjoy building things where AI, data and software meet.
+**Currently**
 
-Currently:
-→ Learning Machine Learning, Deep Learning & Generative AI
-→ Exploring Data Analytics, Data Engineering & Cloud
-→ Building practical Python, SQL and web projects
-→ Turning ideas into useful real-world applications
+- Learning Machine Learning, Deep Learning, and Generative AI
+- Exploring Data Analytics, Data Engineering, and Cloud
+- Building practical Python, SQL, and web projects
 
-$ echo "Code. Learn. Build. Repeat. 🚀"
+---
 
-~/ toolbox
+## Featured Projects
 
-┌─────────────────────────────────────────────────────┐
-│                 CURRENT TOOLBOX                     │
-├─────────────────────────────────────────────────────┤
-│ Python        Java          C++          JavaScript │
-│ SQL           PostgreSQL    MongoDB      MySQL      │
-│ Pandas        NumPy         Scikit-learn Matplotlib │
-│ Power BI      Tableau       Git          GitHub     │
-│ HTML          CSS           Node.js      React      │
-│ Django        VS Code       Linux                   │
-└─────────────────────────────────────────────────────┘
+| Project | Description | Tech |
+| --- | --- | --- |
+| [**Apex Rush 3D Game**](https://github.com/aswini-saravanan/Apex-Rush-3D-Game) | Browser arcade racing game with a custom pseudo-3D road engine, 45 AI traffic cars, collision handling, and a local leaderboard. No game engine or 3D library. | JavaScript, HTML5 Canvas |
+| [**Superstore Business Intelligence Project**](https://github.com/aswini-saravanan/Superstore-Business-Intelligence-Project) | Analysis of retail sales data to understand business performance, including data cleaning, feature engineering, and SQL-based analysis of sales trends and profitability. | Python, SQL, Power BI, Jupyter Notebook |
+| [**Employee Management System**](https://github.com/aswini-saravanan/Employee-Management-System) | Java application for managing employee records. | Java |
+
+---
+
+## Tech Stack
+
+**Languages:** Python, Java, C++, C, JavaScript, SQL, HTML, CSS
+
+**Data and ML:** Pandas, NumPy, Scikit-learn, Matplotlib, Power BI, Tableau
+
+**Web and Databases:** Node.js, React, Django, PostgreSQL, MongoDB, MySQL
+
+**Tools:** Git, GitHub, VS Code, Linux
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,html,css" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,nodejs,react,django,git,github,vscode,linux" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,html,css,nodejs,react,django" alt="Languages and frameworks" />
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,vscode,linux" alt="Databases and tools" />
 
 </div>
 
-~/ projects
+---
 
-$ ls ./projects
-
-01  SmartKitchen
-02  Smart AI Task Manager
-03  Secure Messenger
-04  Maison Marche
-
-<table>
-<tr>
-<td width="50%">
-
-🍳 SmartKitchen
-
-AI-powered recipe platform with:
-
-AI recipe suggestions
-
-Kid Mode
-
-Adult Mode
-
-Interactive interface
-
-</td>
-
-<td width="50%">
-
-🤖 Smart AI Task Manager
-
-Task management application with:
-
-Node.js backend
-
-PostgreSQL database
-
-JavaScript frontend
-
-AI-assisted features
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-🔐 Secure Messenger
-
-Secure messaging application built with:
-
-Django
-
-Python
-
-Authentication
-
-Database integration
-
-</td>
-
-<td width="50%">
-
-👟 Maison Marche
-
-Modern e-commerce project featuring:
-
-Product browsing
-
-Shopping experience
-
-Responsive UI
-
-Full-stack architecture
-
-</td>
-</tr>
-</table>
-
-~/ skill radar
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Python','SQL','Data%20Science','ML','Web%20Dev','Java'],datasets:[{label:'Aswini',data:[85,80,75,70,70,65],fill:true}]},options:{scale:{ticks:{beginAtZero:true,max:100}}}}" width="500" alt="Skill radar chart"/>
-
-</div>
-
-~/ the numbers
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="GitHub stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aswini-saravanan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswini-saravanan&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="Top languages" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=aswini-saravanan&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
 
 </div>
 
-~/ contribution calendar
+---
+
+## Goals
+
+- [ ] Build stronger machine learning projects
+- [ ] Learn Deep Learning in depth and explore Generative AI
+- [ ] Learn Cloud and Data Engineering
+- [ ] Build more full-stack projects
+- [ ] Take part in hackathons
+- [ ] Contribute to open source
+- [ ] Build something people actually use
+
+---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
-
-</div>
-
-~/ currently
-
-┌────────────────────────────────────────────────────┐
-│ 📚 Learning     → ML • DL • GenAI                  │
-│ 🧠 Exploring    → Data Engineering & Cloud         │
-│ 💻 Building     → AI + Web Projects                │
-│ 📊 Improving    → Analytics & Visualization        │
-│ 🚀 Goal         → Build useful AI systems          │
-└────────────────────────────────────────────────────┘
-
-~/ goals
-
-[ ] 🤖 Build stronger ML projects
-[ ] 🧠 Learn Deep Learning deeply
-[ ] ✨ Explore Generative AI
-[ ] ☁️ Learn Cloud & Data Engineering
-[ ] 🌐 Build more full-stack projects
-[ ] 🏆 Participate in hackathons
-[ ] 🌍 Contribute to open source
-[ ] 🚀 Build something people actually use
-
-~/ connect
-
-<div align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=800&color=8BE9FD&center=true&vCenter=true&width=550&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%92%BB;Keep+Growing+%F0%9F%8C%B1;Never+Stop+Creating+%E2%9C%A8" alt="Footer typing animation"/>
-
-<br><br>
-
-⭐ If you like my projects, consider giving them a star!
+If you like my projects, consider giving them a star.
 
 </div>
