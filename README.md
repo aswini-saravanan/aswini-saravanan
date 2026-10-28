@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Aswini.png" width="200" alt="Aswini" />
+<img src="./Aswini.png" width="1000" alt="Aswini" />
 
 # Aswini S
 
